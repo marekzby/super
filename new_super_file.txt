@@ -1,1 +1,2 @@
 new_super_file.txt
+Added line.
